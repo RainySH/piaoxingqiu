@@ -1,0 +1,23 @@
+sessions:
+  652ce5720941280001a5fd53:
+    seat_plans:
+      652ce5720941280001a5fd54:
+        seat_plan_id: 652ce5720941280001a5fd54
+        seat_plan_name: "VIP\u7968 980\u5143\uFF08VIP\u5168\u5458\uFF1A\u5F69\u6392\
+          \u89C2\u8D4F\u3001\u63E1\u624B\u4F1A\u3001\u76F4\u7B14\u7B7E\u540D\u6D77\
+          \u62A5\uFF09"
+        seat_plan_price: 980.0
+    session_date: "2023-11-18 \u5468\u516D 19:00"
+    session_id: 652ce5720941280001a5fd53
+  652ce572d6132f000122e76f:
+    seat_plans:
+      652ce573d6132f000122e771:
+        seat_plan_id: 652ce573d6132f000122e771
+        seat_plan_name: "VIP\u7968 980\u5143\uFF08VIP\u5168\u5458\uFF1A\u5F69\u6392\
+          \u89C2\u8D4F\u3001\u63E1\u624B\u4F1A\u3001\u76F4\u7B14\u7B7E\u540D\u6D77\
+          \u62A5\uFF09"
+        seat_plan_price: 980.0
+    session_date: "2023-11-19 \u5468\u65E5 18:00"
+    session_id: 652ce572d6132f000122e76f
+show_id: 652ce571844565000121567e
+show_name: "\u3010\u4E0A\u6D77\u3011coldrain LIVE IN SHANGHAI 2023"

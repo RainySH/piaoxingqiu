@@ -1,0 +1,15 @@
+Show:
+  show_id : '652ce571844565000121567e'
+  session_id : ''
+  seat_plan_id : ''
+  session_id_exclude : []
+
+Bill:
+  buy_count : 1
+  deliver_method : ''
+
+Audience:
+  # Piaoxingqiu will validate audience info
+  - name : '刘涛'
+    idNo : '310110199503125710'
+    idType : 'ID_CARD'
